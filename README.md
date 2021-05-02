@@ -1,5 +1,9 @@
 # cool-ads
 
-Install 
+You have to download the german stopword corpus first
 
-    import nlpk
+start a new interactive python session and do:
+    import nltk
+    nltk.download('stopwords')
+    nltk.download('punkt')
+
