@@ -1,72 +1,72 @@
 [
   {
-    "file": "raw-pages/airtags-apple-ortungsgeraet-sachen-wiederfinden-wohnung-dinge-ve.html",
-    "category": "digital",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "airtags-apple-ortungsgeraet-sachen-wiederfinden-wohnung-dinge-ve.html",
+    "label": "digital",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/allesdichtmachen-jan-josef-liefers-krankenhaus-essener-universit.html",
-    "category": "gesellschaft",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "allesdichtmachen-jan-josef-liefers-krankenhaus-essener-universit.html",
+    "label": "gesellschaft",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/bayern-maskenaffaere-corona-schweiz.html",
-    "category": "politik",
-    "cotentSelector": "#readspeaker-content"
+    "file": "bayern-maskenaffaere-corona-schweiz.html",
+    "label": "politik",
+    "contentSelector": "#readspeaker-content"
   },
   {
-    "file": "raw-pages/bernd-osterloh-volkswagen-betriebsrat-vorstand-gehalt.html",
-    "category": "mobilität",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "bernd-osterloh-volkswagen-betriebsrat-vorstand-gehalt.html",
+    "label": "mobilität",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/buergertum-moebel-mittelschicht-usm-haller-preis.html",
-    "category": "entdecken",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "buergertum-moebel-mittelschicht-usm-haller-preis.html",
+    "label": "entdecken",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/champions-league-fussball-laender-europa-vielfalt-philipp-lahm-a.html",
-    "category": "sport",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "champions-league-fussball-laender-europa-vielfalt-philipp-lahm-a.html",
+    "label": "sport",
+    "contentSelector": ".article.article--padded.article--columnarticle"
   },
   {
-    "file": "raw-pages/cro-trip-album-rap-pop-rezension.html",
-    "category": "kultur",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "cro-trip-album-rap-pop-rezension.html",
+    "label": "kultur",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/kanzlerkandidatur-die-gruenen-annalena-bearbock-psychotherapie.html",
-    "category": "kultur",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "kanzlerkandidatur-die-gruenen-annalena-bearbock-psychotherapie.html",
+    "label": "kultur",
+    "contentSelector": ".article.article--padded.article--columnarticle"
   },
   {
-    "file": "raw-pages/krebs-erkrankung-unentdeckt-corona-erste-welle-brustkrebst-barme.html",
-    "category": "gesundheit",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "krebs-erkrankung-unentdeckt-corona-erste-welle-brustkrebst-barme.html",
+    "label": "gesundheit",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/olaf-scholz-cum-ex-ausschuss-aussage-kanzlerkandidat-warburg-ban.html",
-    "category": "politik",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "olaf-scholz-cum-ex-ausschuss-aussage-kanzlerkandidat-warburg-ban.html",
+    "label": "politik",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/rb-leipzig-jesse-marsch-julian-nagelsmann-fc-bayern-trainerwechs.html",
-    "category": "sport",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "rb-leipzig-jesse-marsch-julian-nagelsmann-fc-bayern-trainerwechs.html",
+    "label": "sport",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/spacex-iss-astronauten-rueckkehr-erde-raumfahrt.html",
-    "category": "gesellschaft",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "spacex-iss-astronauten-rueckkehr-erde-raumfahrt.html",
+    "label": "gesellschaft",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/usa-aussenpolitik-joe-biden-corona-hilfe-indien-klimagipfel-ok-a.html",
-    "category": "politik",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "usa-aussenpolitik-joe-biden-corona-hilfe-indien-klimagipfel-ok-a.html",
+    "label": "politik",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/zweiter-weltkrieg-wrack-der-uss-indianapolis-entdeckt-.html",
-    "category": "gesellschaft",
-    "cotentSelector": "#readspeaker-content"
+    "file": "zweiter-weltkrieg-wrack-der-uss-indianapolis-entdeckt-.html",
+    "label": "gesellschaft",
+    "contentSelector": "#readspeaker-content"
   }
 ]

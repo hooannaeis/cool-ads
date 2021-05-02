@@ -1,52 +1,52 @@
 [
   {
-    "file": "raw-pages/berlin-1mai-tag-der-arbeit-demonstration-eskalation-gewalt.html",
-    "category": "gesellschaft",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "berlin-1mai-tag-der-arbeit-demonstration-eskalation-gewalt.html",
+    "labels": "gesellschaft",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/formel-1-portugal-hamilton-verstappen-bottas-.html",
-    "category": "sport",
-    "cotentSelector": "#readspeaker-content"
+    "file": "formel-1-portugal-hamilton-verstappen-bottas-.html",
+    "labels": "sport",
+    "contentSelector": "#readspeaker-content"
   },
   {
-    "file": "raw-pages/hinterzimmer-politik-laschet-soeder-1.html",
-    "category": "gesellschaft",
-    "cotentSelector": "#readspeaker-content"
+    "file": "hinterzimmer-politik-laschet-soeder-1.html",
+    "labels": "gesellschaft",
+    "contentSelector": "#readspeaker-content"
   },
   {
-    "file": "raw-pages/karl-dall-nachruf-1.html",
-    "category": "kultur",
-    "cotentSelector": "#readspeaker-content"
+    "file": "karl-dall-nachruf-1.html",
+    "labels": "kultur",
+    "contentSelector": "#readspeaker-content"
   },
   {
-    "file": "raw-pages/katholische-kirche-patriarchat-zoelibat-weiheaemter-frauen.html",
-    "category": "gesellschaft",
-    "cotentSelector": "article.article"
+    "file": "katholische-kirche-patriarchat-zoelibat-weiheaemter-frauen.html",
+    "labels": "gesellschaft",
+    "contentSelector": "article.article"
   },
   {
-    "file": "raw-pages/metzelder-urteil-berufung-1.html",
-    "category": "gesellschaft",
-    "cotentSelector": "#readspeaker-content"
+    "file": "metzelder-urteil-berufung-1.html",
+    "labels": "gesellschaft",
+    "contentSelector": "#readspeaker-content"
   },
   {
-    "file": "raw-pages/motorsport-schroetter-zehnter-in-moto2-rennen-dpa.urn-newsml-dpa.html",
-    "category": "sport",
-    "cotentSelector": "#readspeaker-content"
+    "file": "motorsport-schroetter-zehnter-in-moto2-rennen-dpa.urn-newsml-dpa.html",
+    "labels": "sport",
+    "contentSelector": "#readspeaker-content"
   },
   {
-    "file": "raw-pages/muenchen-otto-schwarzfischer-oktoberfest-1.html",
-    "category": "gesellschaft",
-    "cotentSelector": "#readspeaker-content"
+    "file": "muenchen-otto-schwarzfischer-oktoberfest-1.html",
+    "labels": "gesellschaft",
+    "contentSelector": "#readspeaker-content"
   },
   {
-    "file": "raw-pages/podcast-markt-apple-facebook-spotify.html",
-    "category": "digital",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "podcast-markt-apple-facebook-spotify.html",
+    "labels": "digital",
+    "contentSelector": ".article.article--padded.article--article"
   },
   {
-    "file": "raw-pages/stadtverkehr-auto-fahren-staedte-elektroauto-strassenverkehr-sta.html",
-    "category": "mobilität",
-    "cotentSelector": ".article.article--padded.article--article"
+    "file": "stadtverkehr-auto-fahren-staedte-elektroauto-strassenverkehr-sta.html",
+    "labels": "mobilität",
+    "contentSelector": ".article.article--padded.article--article"
   }
 ]
